@@ -74,6 +74,11 @@ flowchart TD
 - 系统提示词让 AI「假装是真实人类」，即在不告知对方的情况下用 AI 代替你聊天。请仅用于正当场景（如自己的自动客服 / 自动应答），不要用于欺骗或诈骗。
 - 使用商务账号功能需要 Telegram Premium。
 
+## 联系方式
+
+- 频道：[@pgkj666](https://t.me/pgkj666)
+- 联系机器人：[@pgkj666_bot](https://t.me/pgkj666_bot)
+
 ## 许可证
 
 [MIT](LICENSE)
